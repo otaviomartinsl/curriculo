@@ -1,0 +1,24 @@
+.tecnologias {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .tecnologias-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  
+  .tecnologia-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+  }
+  
+  .tecnologia-item p {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  
