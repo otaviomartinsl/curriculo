@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curriculo/static/css/main.83ffbc7d.css",
+    "main.js": "/curriculo/static/js/main.df1cad29.js",
+    "static/js/453.3f8f4599.chunk.js": "/curriculo/static/js/453.3f8f4599.chunk.js",
+    "index.html": "/curriculo/index.html",
+    "main.83ffbc7d.css.map": "/curriculo/static/css/main.83ffbc7d.css.map",
+    "main.df1cad29.js.map": "/curriculo/static/js/main.df1cad29.js.map",
+    "453.3f8f4599.chunk.js.map": "/curriculo/static/js/453.3f8f4599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ffbc7d.css",
+    "static/js/main.df1cad29.js"
+  ]
+}
