@@ -18,6 +18,9 @@ function Experience() {
             Desenvolvedor Unity, C# na Empresa Plataforma Launcher - 2023 até 2024
           </Typography>
           <Typography variant="body1" paragraph>
+            Agente de Monitoramento na Empresa Logica Soluções - 2024
+          </Typography>
+          <Typography variant="body1" paragraph>
             Desenvolvedor Fullstack React e Node.js na Empresa Logica Soluções - 2024
           </Typography>
         </Box>
